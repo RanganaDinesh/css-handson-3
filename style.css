@@ -1,0 +1,199 @@
+.h33{
+    color: red;
+    border: 5px red solid;
+    box-shadow: 7px 7px 10px  darkmagenta;
+    width: 200px;
+    background-color: aliceblue;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 0px 0px 5px darkmagenta;
+    border-radius: 10px;
+    font-style: italic;
+    padding: 10px;
+    margin-left: 38%;
+
+}
+body{
+    background-color: gray;
+}
+.line{
+    border-width: 2px;
+}
+.secbr1{
+    
+    display: flex;
+
+}
+.head1{
+    color: black;
+    border: 5px red solid;
+    box-shadow: 7px 7px 10px  darkmagenta;
+    width: 200px;
+    background-color: aliceblue;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 0px 0px 5px darkmagenta;
+    border-radius: 10px;
+    font-style: italic;
+    padding: 10px;
+    line-height: 35px;
+    margin-left: 85px;
+
+}
+.head2{
+    color: black;
+    border: 5px red solid;
+    box-shadow: 7px 7px 10px  darkmagenta;
+    width: 220px;
+    background-color: aliceblue;
+    line-height: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 0px 0px 5px darkmagenta;
+    border-radius: 10px;
+    font-style: italic;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 25px;
+    margin-left: 85px;
+}
+.img1{
+  
+    color: black;
+    border: 5px red solid;
+    box-shadow: 7px 7px 10px  darkmagenta;
+    width: 200px;
+    background-color: aliceblue;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 800px;
+   
+   
+
+   
+}
+.img2{
+    color: black;
+    border: 5px red solid;
+    text-shadow: 3px 3px 7px  darkmagenta;
+    width: 200px;
+    background-color: aliceblue;
+    text-align: center;
+    box-shadow: 7px 7px 10px  darkmagenta;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-left: 806px;
+    
+
+}
+img{
+
+    width: 60%;
+    border: 4px solid black;
+    
+    
+  
+}
+.secbr{
+    border: 3px solid green;
+}
+.head3{
+    color: black;
+    border: 5px red solid;
+    box-shadow: 7px 7px 10px  darkmagenta;
+    width: 200px;
+    background-color: aliceblue;
+    line-height: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 0px 0px 5px darkmagenta;
+    border-radius: 10px;
+    font-style: italic;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-left: 45px;
+    
+
+}
+button{
+    margin: 10px;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 5px;
+    margin-bottom: 30px;
+
+}
+.secrg{
+    display: flex;
+}
+.pre1{
+    background-color:greenyellow;
+    border: 4px solid red;
+    color:rgb(73, 45, 45);
+    box-shadow:10px 10px 10px  darkmagenta ;
+    width: 550px;
+    margin-left: 31%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+     position: fixed;
+   padding: 5px 25px 10px 25px;
+   font-style: italic;
+   margin-bottom: 40px;
+   text-align: center;
+   border-radius: 10px ;
+   
+}
+.min{
+    margin-left: 40px;
+}
+.table{
+    display:flex;
+    border: 4px solid green;
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+.thhh{
+    border: 4px solid green;
+   
+    background-color: green;
+    text-align: center;
+}
+.table1{
+    border-right: 4px solid green;
+}
+.mnhead1{
+    border: 4px solid green;
+    background-color: yellow;
+    color: black;
+    text-align: center;
+   
+}
+.border{
+    border-bottom: 2px solid gray;
+    padding-bottom: 20px;
+}
+.mnhead2{
+    color: black;
+    background-color: yellow;
+    text-align: center;
+}
+.text{
+    line-height: 40px;
+    font-style: italic;
+}
+.finn{
+    border: 5px solid darkmagenta;
+    width: 55%;
+    margin-left: 22%;
+}
+.flex{
+    display: flex;
+}
+
+
+
